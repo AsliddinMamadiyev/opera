@@ -21,14 +21,14 @@ body {
 }
 .title {
     @apply md:font-medium md:text-[40px] md:leading-[60px] md:text-dark-gray
-    font-semibold text-[20px] leading-6 text-dark-gray
+    font-semibold text-xl leading-6 text-dark-gray
 }
 .title-desc {
     @apply md:font-normal md:text-base md:text-dark-gray opacity-80
     font-normal text-sm text-dark-gray
 }
 .list-style {
-    @apply md:font-medium md:text-[20px] md:leading-6 text-dark-gray
+    @apply md:font-medium md:text-xl md:leading-6 text-dark-gray
     font-normal text-base leading-5
 }
 .brown-btn {

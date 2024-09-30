@@ -25,7 +25,8 @@ module.exports = {
         "Montserrat": 'Montserrat'
       },
       boxShadow: {
-        border: 'border: 1px solid #FAF1E6'
+        'shadow': '4px 2px 16.6px 0px #0000001A'
+
       }
     },
   },
